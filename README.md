@@ -16,7 +16,7 @@ This project analyzes pizza store sales data using SQL to uncover key performanc
 ## 🛠️ Tools & Technologies
 - **SQL Server** – Querying and analysis  
 - **Excel/CSV** – Data preparation and cleaning  
-- **Tableau** – Dashboard visualization (optional add‑on for portfolio)  
+- **Tableau** – Dashboard visualization  
 
 ---
 
